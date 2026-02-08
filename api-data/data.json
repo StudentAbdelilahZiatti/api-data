@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "description": "Alice is een actieve gebruiker van het platform.",
+    "age": 21,
+    "active": true,
+    "birthDate": "2004-03-12",
+    "imageUrl": "images/alice.webp",
+    "role": "student",
+    "hobbies": ["lezen", "sport"],
+    "address": {
+      "id": 101,
+      "street": "Kerkstraat",
+      "number": 12,
+      "city": "Gent",
+      "primary": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "description": "Bob volgt een opleiding webontwikkeling.",
+    "age": 23,
+    "active": false,
+    "birthDate": "2002-07-25",
+    "imageUrl": "images/bob.jpg",
+    "role": "student",
+    "hobbies": ["gamen", "muziek"],
+    "address": {
+      "id": 102,
+      "street": "Stationsstraat",
+      "number": 45,
+      "city": "Antwerpen",
+      "primary": false
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clara",
+    "description": "Clara werkt deeltijds.",
+    "age": 25,
+    "active": true,
+    "birthDate": "2000-11-02",
+    "imageUrl": "images/clara.jpg",
+    "role": "admin",
+    "hobbies": ["reizen"],
+    "address": {
+      "id": 103,
+      "street": "Markt",
+      "number": 3,
+      "city": "Brugge",
+      "primary": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "description": "David is een actieve student.",
+    "age": 22,
+    "active": true,
+    "birthDate": "2003-01-15",
+    "imageUrl": "images/david.avif",
+    "role": "student",
+    "hobbies": ["sport"],
+    "address": {
+      "id": 104,
+      "street": "Boslaan",
+      "number": 8,
+      "city": "Leuven",
+      "primary": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "Emma",
+    "description": "Emma is geïnteresseerd in fotografie.",
+    "age": 24,
+    "active": true,
+    "birthDate": "2001-05-09",
+    "imageUrl": "images/emma.jpg",
+    "role": "student",
+    "hobbies": ["fotografie"],
+    "address": {
+      "id": 105,
+      "street": "Zuidlaan",
+      "number": 19,
+      "city": "Brussel",
+      "primary": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Finn",
+    "description": "Finn heeft een administratieve rol.",
+    "age": 26,
+    "active": false,
+    "birthDate": "1999-09-30",
+    "imageUrl": "images/finn.avif",
+    "role": "admin",
+    "hobbies": ["muziek"],
+    "address": {
+      "id": 106,
+      "street": "Noordstraat",
+      "number": 27,
+      "city": "Kortrijk",
+      "primary": false
+    }
+  },
+  {
+    "id": 7,
+    "name": "Grace",
+    "description": "Grace houdt van creatief bezig zijn.",
+    "age": 20,
+    "active": true,
+    "birthDate": "2005-02-18",
+    "imageUrl": "images/grace.webp",
+    "role": "student",
+    "hobbies": ["tekenen"],
+    "address": {
+      "id": 107,
+      "street": "Parklaan",
+      "number": 6,
+      "city": "Mechelen",
+      "primary": true
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hugo",
+    "description": "Hugo heeft een passie voor koken.",
+    "age": 27,
+    "active": true,
+    "birthDate": "1998-12-01",
+    "imageUrl": "images/hugo.jpg",
+    "role": "admin",
+    "hobbies": ["koken"],
+    "address": {
+      "id": 108,
+      "street": "Ringweg",
+      "number": 50,
+      "city": "Genk",
+      "primary": false
+    }
+  },
+  {
+    "id": 9,
+    "name": "Iris",
+    "description": "Iris volgt een rustige levensstijl.",
+    "age": 23,
+    "active": false,
+    "birthDate": "2002-06-14",
+    "imageUrl": "images/iris.jpg",
+    "role": "student",
+    "hobbies": ["yoga"],
+    "address": {
+      "id": 109,
+      "street": "Heideweg",
+      "number": 11,
+      "city": "Turnhout",
+      "primary": true
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jack",
+    "description": "Jack is een sportieve administrator.",
+    "age": 28,
+    "active": true,
+    "birthDate": "1997-08-21",
+    "imageUrl": "images/jack.jpg",
+    "role": "admin",
+    "hobbies": ["lopen"],
+    "address": {
+      "id": 110,
+      "street": "Dorpstraat",
+      "number": 1,
+      "city": "Aalst",
+      "primary": false
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": 101,
+    "street": "Kerkstraat",
+    "number": 12,
+    "city": "Gent",
+    "primary": true
+  }
+]
