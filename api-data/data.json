@@ -6,7 +6,7 @@
     "age": 21,
     "active": true,
     "birthDate": "2004-03-12",
-    "imageUrl": "images/alice.webp",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/alice.webp",
     "role": "student",
     "hobbies": ["lezen", "sport"],
     "address": {
@@ -24,7 +24,7 @@
     "age": 23,
     "active": false,
     "birthDate": "2002-07-25",
-    "imageUrl": "images/bob.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/bob.jpg",
     "role": "student",
     "hobbies": ["gamen", "muziek"],
     "address": {
@@ -42,7 +42,7 @@
     "age": 25,
     "active": true,
     "birthDate": "2000-11-02",
-    "imageUrl": "images/clara.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/clara.jpg",
     "role": "admin",
     "hobbies": ["reizen"],
     "address": {
@@ -60,7 +60,7 @@
     "age": 22,
     "active": true,
     "birthDate": "2003-01-15",
-    "imageUrl": "images/david.avif",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/david.avif",
     "role": "student",
     "hobbies": ["sport"],
     "address": {
@@ -78,7 +78,7 @@
     "age": 24,
     "active": true,
     "birthDate": "2001-05-09",
-    "imageUrl": "images/emma.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/emma.jpg",
     "role": "student",
     "hobbies": ["fotografie"],
     "address": {
@@ -96,7 +96,7 @@
     "age": 26,
     "active": false,
     "birthDate": "1999-09-30",
-    "imageUrl": "images/finn.avif",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/finn.avif",
     "role": "admin",
     "hobbies": ["muziek"],
     "address": {
@@ -114,7 +114,7 @@
     "age": 20,
     "active": true,
     "birthDate": "2005-02-18",
-    "imageUrl": "images/grace.webp",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/grace.webp",
     "role": "student",
     "hobbies": ["tekenen"],
     "address": {
@@ -132,7 +132,7 @@
     "age": 27,
     "active": true,
     "birthDate": "1998-12-01",
-    "imageUrl": "images/hugo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/hugo.jpg",
     "role": "admin",
     "hobbies": ["koken"],
     "address": {
@@ -150,7 +150,7 @@
     "age": 23,
     "active": false,
     "birthDate": "2002-06-14",
-    "imageUrl": "images/iris.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/iris.jpg",
     "role": "student",
     "hobbies": ["yoga"],
     "address": {
@@ -168,7 +168,7 @@
     "age": 28,
     "active": true,
     "birthDate": "1997-08-21",
-    "imageUrl": "images/jack.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/StudentAbdelilahZiatti/api-data/main/api-data/images/jack.jpg",
     "role": "admin",
     "hobbies": ["lopen"],
     "address": {
